@@ -11,7 +11,7 @@ public class CourierCreateApi extends BaseHttpClient {
     private String login;
     private String password;
     private String firstName;
-    //private Response response;
+
 
     // Конструктор для установки данных
     public CourierCreateApi(String login, String password, String firstName) {

@@ -1,4 +1,4 @@
-yун# Compiled class file
+# Compiled class file
 *.class
 
 # Log file
@@ -25,3 +25,9 @@ hs_err_pid*
 .idea
 .build
 .target
+
+# Игнорировать папку allure-results в корне или в любых подкаталогах
+**/allure-results/
+
+# Игнорировать папку target в корне или в любых подкаталогах
+**/target/

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="CourierCreateTest" time="8.869" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="CourierCreateTest" time="8.627" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="java.specification.version" value="11"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1251"/>
-    <property name="java.class.path" value="C:\projects\7\Sprint_7\target\test-classes;C:\projects\7\Sprint_7\target\classes;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-junit5\2.25.0\allure-junit5-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-junit-platform\2.25.0\allure-junit-platform-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-java-commons\2.25.0\allure-java-commons-2.25.0.jar;C:\Users\Roman\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-model\2.25.0\allure-model-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-test-filter\2.25.0\allure-test-filter-2.25.0.jar;C:\Users\Roman\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\Roman\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Roman\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;C:\Users\Roman\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Roman\.m2\repository\org\junit\platform\junit-platform-launcher\1.9.2\junit-platform-launcher-1.9.2.jar;C:\Users\Roman\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-rest-assured\2.25.0\allure-rest-assured-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-attachments\2.25.0\allure-attachments-2.25.0.jar;C:\Users\Roman\.m2\repository\org\freemarker\freemarker\2.3.31\freemarker-2.3.31.jar;C:\Users\Roman\.m2\repository\io\rest-assured\rest-assured\5.5.0\rest-assured-5.5.0.jar;C:\Users\Roman\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\Roman\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\Roman\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Roman\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Roman\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Roman\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Roman\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Roman\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Roman\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Roman\.m2\repository\io\rest-assured\json-path\5.5.0\json-path-5.5.0.jar;C:\Users\Roman\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\Roman\.m2\repository\io\rest-assured\rest-assured-common\5.5.0\rest-assured-common-5.5.0.jar;C:\Users\Roman\.m2\repository\io\rest-assured\xml-path\5.5.0\xml-path-5.5.0.jar;C:\Users\Roman\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\Roman\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.2\jackson-databind-2.14.2.jar;C:\Users\Roman\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.2\jackson-annotations-2.14.2.jar;C:\Users\Roman\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.2\jackson-core-2.14.2.jar;"/>
+    <property name="java.class.path" value="C:\projects\7\Sprint_7\target\test-classes;C:\projects\7\Sprint_7\target\classes;C:\Users\Roman\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.0\junit-jupiter-5.10.0.jar;C:\Users\Roman\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\Roman\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Roman\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\Roman\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Roman\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.0\junit-jupiter-params-5.10.0.jar;C:\Users\Roman\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\Roman\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-junit5\2.25.0\allure-junit5-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-junit-platform\2.25.0\allure-junit-platform-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-java-commons\2.25.0\allure-java-commons-2.25.0.jar;C:\Users\Roman\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-model\2.25.0\allure-model-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-test-filter\2.25.0\allure-test-filter-2.25.0.jar;C:\Users\Roman\.m2\repository\org\junit\platform\junit-platform-launcher\1.9.2\junit-platform-launcher-1.9.2.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-rest-assured\2.25.0\allure-rest-assured-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-attachments\2.25.0\allure-attachments-2.25.0.jar;C:\Users\Roman\.m2\repository\org\freemarker\freemarker\2.3.31\freemarker-2.3.31.jar;C:\Users\Roman\.m2\repository\io\rest-assured\rest-assured\5.5.0\rest-assured-5.5.0.jar;C:\Users\Roman\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\Roman\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\Roman\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Roman\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Roman\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Roman\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Roman\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Roman\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Roman\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Roman\.m2\repository\io\rest-assured\json-path\5.5.0\json-path-5.5.0.jar;C:\Users\Roman\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\Roman\.m2\repository\io\rest-assured\rest-assured-common\5.5.0\rest-assured-common-5.5.0.jar;C:\Users\Roman\.m2\repository\io\rest-assured\xml-path\5.5.0\xml-path-5.5.0.jar;C:\Users\Roman\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\Roman\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.2\jackson-databind-2.14.2.jar;C:\Users\Roman\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.2\jackson-annotations-2.14.2.jar;C:\Users\Roman\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.2\jackson-core-2.14.2.jar;"/>
     <property name="java.vm.vendor" value="Amazon.com Inc."/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -17,9 +17,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.26_4\bin"/>
-    <property name="sun.java.command" value="C:\Users\Roman\AppData\Local\Temp\surefire5616803380736707101\surefirebooter-20250615104900410_3.jar C:\Users\Roman\AppData\Local\Temp\surefire5616803380736707101 2025-06-15T10-48-58_534-jvmRun1 surefire-20250615104900410_1tmp surefire_0-20250615104900410_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Roman\AppData\Local\Temp\surefire419167897898541071\surefirebooter-20250615142104820_3.jar C:\Users\Roman\AppData\Local\Temp\surefire419167897898541071 2025-06-15T14-21-04_480-jvmRun1 surefire-20250615142104820_1tmp surefire_0-20250615142104820_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\projects\7\Sprint_7\target\test-classes;C:\projects\7\Sprint_7\target\classes;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-junit5\2.25.0\allure-junit5-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-junit-platform\2.25.0\allure-junit-platform-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-java-commons\2.25.0\allure-java-commons-2.25.0.jar;C:\Users\Roman\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-model\2.25.0\allure-model-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-test-filter\2.25.0\allure-test-filter-2.25.0.jar;C:\Users\Roman\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.2\junit-jupiter-api-5.9.2.jar;C:\Users\Roman\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Roman\.m2\repository\org\junit\platform\junit-platform-commons\1.9.2\junit-platform-commons-1.9.2.jar;C:\Users\Roman\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Roman\.m2\repository\org\junit\platform\junit-platform-launcher\1.9.2\junit-platform-launcher-1.9.2.jar;C:\Users\Roman\.m2\repository\org\junit\platform\junit-platform-engine\1.9.2\junit-platform-engine-1.9.2.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-rest-assured\2.25.0\allure-rest-assured-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-attachments\2.25.0\allure-attachments-2.25.0.jar;C:\Users\Roman\.m2\repository\org\freemarker\freemarker\2.3.31\freemarker-2.3.31.jar;C:\Users\Roman\.m2\repository\io\rest-assured\rest-assured\5.5.0\rest-assured-5.5.0.jar;C:\Users\Roman\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\Roman\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\Roman\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Roman\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Roman\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Roman\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Roman\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Roman\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Roman\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Roman\.m2\repository\io\rest-assured\json-path\5.5.0\json-path-5.5.0.jar;C:\Users\Roman\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\Roman\.m2\repository\io\rest-assured\rest-assured-common\5.5.0\rest-assured-common-5.5.0.jar;C:\Users\Roman\.m2\repository\io\rest-assured\xml-path\5.5.0\xml-path-5.5.0.jar;C:\Users\Roman\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\Roman\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.2\jackson-databind-2.14.2.jar;C:\Users\Roman\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.2\jackson-annotations-2.14.2.jar;C:\Users\Roman\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.2\jackson-core-2.14.2.jar;"/>
+    <property name="surefire.test.class.path" value="C:\projects\7\Sprint_7\target\test-classes;C:\projects\7\Sprint_7\target\classes;C:\Users\Roman\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.0\junit-jupiter-5.10.0.jar;C:\Users\Roman\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\Roman\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Roman\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\Roman\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Roman\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.0\junit-jupiter-params-5.10.0.jar;C:\Users\Roman\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\Roman\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-junit5\2.25.0\allure-junit5-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-junit-platform\2.25.0\allure-junit-platform-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-java-commons\2.25.0\allure-java-commons-2.25.0.jar;C:\Users\Roman\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-model\2.25.0\allure-model-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-test-filter\2.25.0\allure-test-filter-2.25.0.jar;C:\Users\Roman\.m2\repository\org\junit\platform\junit-platform-launcher\1.9.2\junit-platform-launcher-1.9.2.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-rest-assured\2.25.0\allure-rest-assured-2.25.0.jar;C:\Users\Roman\.m2\repository\io\qameta\allure\allure-attachments\2.25.0\allure-attachments-2.25.0.jar;C:\Users\Roman\.m2\repository\org\freemarker\freemarker\2.3.31\freemarker-2.3.31.jar;C:\Users\Roman\.m2\repository\io\rest-assured\rest-assured\5.5.0\rest-assured-5.5.0.jar;C:\Users\Roman\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\Roman\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\Roman\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Roman\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Roman\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Roman\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Roman\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Roman\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Roman\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Roman\.m2\repository\io\rest-assured\json-path\5.5.0\json-path-5.5.0.jar;C:\Users\Roman\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\Roman\.m2\repository\io\rest-assured\rest-assured-common\5.5.0\rest-assured-common-5.5.0.jar;C:\Users\Roman\.m2\repository\io\rest-assured\xml-path\5.5.0\xml-path-5.5.0.jar;C:\Users\Roman\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\Roman\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.14.2\jackson-databind-2.14.2.jar;C:\Users\Roman\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.14.2\jackson-annotations-2.14.2.jar;C:\Users\Roman\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.14.2\jackson-core-2.14.2.jar;"/>
     <property name="allure.results.directory" value="C:\projects\7\Sprint_7\target/allure-results"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Roman"/>
@@ -34,7 +34,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Roman\AppData\Local\Temp\surefire5616803380736707101\surefirebooter-20250615104900410_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Roman\AppData\Local\Temp\surefire419167897898541071\surefirebooter-20250615142104820_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.26+4-LTS"/>
@@ -62,7 +62,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testRequestWithoutLogin" classname="CourierCreateTest" time="4.642">
+  <testcase name="testRequestWithoutLogin" classname="CourierCreateTest" time="4.462">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://qa-scooter.praktikum-services.ru/api/v1/courier
 Proxy:			<none>
@@ -81,14 +81,14 @@ Body:
     "login": ""
 }
 HTTP/1.1 400 Bad Request
-Content-Type: application/json; charset=utf-8
-Access-Control-Allow-Origin: *
-Date: Sun, 15 Jun 2025 07:49:03 GMT
-X-Request-Id: 1749973743984819-12851886344207353997
-ETag: W/"72-AUDx41VLe1HSztSRMybiiyHwcKY"
 X-Powered-By: Express
-Set-Cookie: _yasc=3eTFlLGNAT1wrMwGS6ftEK7LejmtfHx3z0K6VLaceV2vhN4bmCg8D48Uyrq4GxnP; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 07:49:03 GMT; secure
+Date: Sun, 15 Jun 2025 11:21:10 GMT
 Content-Length: 114
+Content-Type: application/json; charset=utf-8
+X-Request-Id: 1749986470128063-11808372139456343747
+Set-Cookie: _yasc=sC5EE/Z+tPcddShD1bKaBG6+m8NWc4WYVtR+JkIbhfFNxN3t9vAjABtyXZDR3tXXVw==; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 11:21:10 GMT; secure
+ETag: W/"72-AUDx41VLe1HSztSRMybiiyHwcKY"
+Access-Control-Allow-Origin: *
 
 {
     "code": 400,
@@ -108,17 +108,17 @@ Multiparts:		<none>
 Body:
 {
     "password": "pass123",
-    "login": "autoTest_1749973742856"
+    "login": "autoTest_1749986467274"
 }
 HTTP/1.1 404 Not Found
-Set-Cookie: _yasc=0D0a1N7mQ+3rXPd85lYfkXeuEU+gss1xtuRI5U+D6EZ2if+2SYCFhQWzXwzu5n1J5Q==; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 07:49:05 GMT; secure
-Content-Length: 72
-X-Request-Id: 1749973745298421-817107312526841025
-ETag: W/"48-SNOWaDub1LGYtleYI6ITphu8xIQ"
-Date: Sun, 15 Jun 2025 07:49:05 GMT
-Access-Control-Allow-Origin: *
 X-Powered-By: Express
+Access-Control-Allow-Origin: *
+ETag: W/"48-SNOWaDub1LGYtleYI6ITphu8xIQ"
+Set-Cookie: _yasc=IbCxPbaydFLliOwOdAt5K0oTnL3YaQCzBaTcighSBjtnBrr4SkWXJXoK9sHrGI68mQ==; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 11:21:11 GMT; secure
+Content-Length: 72
 Content-Type: application/json; charset=utf-8
+Date: Sun, 15 Jun 2025 11:21:11 GMT
+X-Request-Id: 1749986471403705-10218668539901224317
 
 {
     "code": 404,
@@ -130,7 +130,7 @@ SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
 ]]></system-err>
   </testcase>
-  <testcase name="testRequestWithoutPassword" classname="CourierCreateTest" time="1.0">
+  <testcase name="testRequestWithoutPassword" classname="CourierCreateTest" time="0.842">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://qa-scooter.praktikum-services.ru/api/v1/courier
 Proxy:			<none>
@@ -146,17 +146,17 @@ Body:
 {
     "firstName": "Auto",
     "password": "",
-    "login": "autoTest_1749973747487"
+    "login": "autoTest_1749986471727"
 }
 HTTP/1.1 400 Bad Request
-X-Request-Id: 1749973746073991-12513277674294887884
-Date: Sun, 15 Jun 2025 07:49:06 GMT
-ETag: W/"72-AUDx41VLe1HSztSRMybiiyHwcKY"
 Access-Control-Allow-Origin: *
-Set-Cookie: _yasc=ov1nSjkN45cYjeBEm85NqVUSyoVba/QMe1j8eOs/RTWHWkVCJ3SfYTsDn/KaygMCag==; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 07:49:06 GMT; secure
+Date: Sun, 15 Jun 2025 11:21:12 GMT
+Set-Cookie: _yasc=e7PCYjtZjC6JXuLogufoED4yEIppYK/hraEP8JnzRLFqe2f6gW+9Z7IXvtntuhHjeg==; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 11:21:11 GMT; secure
 Content-Length: 114
-X-Powered-By: Express
 Content-Type: application/json; charset=utf-8
+ETag: W/"72-AUDx41VLe1HSztSRMybiiyHwcKY"
+X-Powered-By: Express
+X-Request-Id: 1749986471997333-15027589045733712351
 
 {
     "code": 400,
@@ -176,17 +176,17 @@ Multiparts:		<none>
 Body:
 {
     "password": "pass123",
-    "login": "autoTest_1749973747487"
+    "login": "autoTest_1749986471727"
 }
 HTTP/1.1 404 Not Found
 Access-Control-Allow-Origin: *
-X-Request-Id: 1749973746484639-15629834196573987140
-Content-Type: application/json; charset=utf-8
-X-Powered-By: Express
-Date: Sun, 15 Jun 2025 07:49:06 GMT
 ETag: W/"48-SNOWaDub1LGYtleYI6ITphu8xIQ"
 Content-Length: 72
-Set-Cookie: _yasc=RuLQM0tV/7+7PUC4uA0+TzPr50+6mNa3Q6YK1exrhjBMwgeus5XSV3znelp2csw3; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 07:49:06 GMT; secure
+Set-Cookie: _yasc=lMhk7+lrz70B4sZU41nph0v8KhoO4c7P1YQtt0w/DGGr+8JOX6bxUqpQ5fzjNpKUjg==; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 11:21:12 GMT; secure
+Content-Type: application/json; charset=utf-8
+X-Powered-By: Express
+Date: Sun, 15 Jun 2025 11:21:12 GMT
+X-Request-Id: 1749986472423299-18221035019094878260
 
 {
     "code": 404,
@@ -194,7 +194,7 @@ Set-Cookie: _yasc=RuLQM0tV/7+7PUC4uA0+TzPr50+6mNa3Q6YK1exrhjBMwgeus5XSV3znelp2cs
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testCreateCourier" classname="CourierCreateTest" time="1.447">
+  <testcase name="testCreateCourier" classname="CourierCreateTest" time="1.285">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://qa-scooter.praktikum-services.ru/api/v1/courier
 Proxy:			<none>
@@ -210,17 +210,17 @@ Body:
 {
     "firstName": "Auto",
     "password": "pass123",
-    "login": "autoTest_1749973748495"
+    "login": "autoTest_1749986472571"
 }
 HTTP/1.1 201 Created
-Content-Type: application/json; charset=utf-8
-Date: Sun, 15 Jun 2025 07:49:06 GMT
+Date: Sun, 15 Jun 2025 11:21:12 GMT
 X-Powered-By: Express
-Access-Control-Allow-Origin: *
-ETag: W/"b-Ai2R8hgEarLmHKwesT1qcY913ys"
-X-Request-Id: 1749973746903380-15473508879858879800
+Content-Type: application/json; charset=utf-8
 Content-Length: 11
-Set-Cookie: _yasc=27mofUhmIOooye7yV4FKyGyiDMNNRYwmeRoEQW/vVBA5MfGZxlu9QP3L87gSiVIZ0w==; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 07:49:06 GMT; secure
+X-Request-Id: 1749986472843685-9386961903319419669
+Access-Control-Allow-Origin: *
+Set-Cookie: _yasc=X8DHavp8fRUD7TKEHr48XPWa3cU12omJ51Asx/wba4SkZYEWa5ivv+kcwS7wv6LTqA==; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 11:21:12 GMT; secure
+ETag: W/"b-Ai2R8hgEarLmHKwesT1qcY913ys"
 
 {
     "ok": true
@@ -239,23 +239,23 @@ Multiparts:		<none>
 Body:
 {
     "password": "pass123",
-    "login": "autoTest_1749973748495"
+    "login": "autoTest_1749986472571"
 }
 HTTP/1.1 200 OK
-Date: Sun, 15 Jun 2025 07:49:07 GMT
-X-Request-Id: 1749973747470910-6199017370984892754
-Access-Control-Allow-Origin: *
-X-Powered-By: Express
+Date: Sun, 15 Jun 2025 11:21:13 GMT
+X-Request-Id: 1749986473236343-14740233129751414556
 Content-Length: 13
-Set-Cookie: _yasc=Z/8AkxMPYX7FH/xwsyo/ONBBLJf5LoCgYqFeU0SpQjakyJbCOHaaw1o0rx/uaSzu; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 07:49:07 GMT; secure
-ETag: W/"d-4inlL6CE6uPylxBf0Y473YXuzvk"
+Access-Control-Allow-Origin: *
+Set-Cookie: _yasc=w3z1+4OSJ50ktc7/PFdZMo6oZwA2yltnoh9xzlx2KPOsXnPB4Zs1E7LZiyp5IWQs6g==; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 11:21:13 GMT; secure
+ETag: W/"d-eUwVEhTZtWFNBi7QwcJPjzsHYZo"
+X-Powered-By: Express
 Content-Type: application/json; charset=utf-8
 
 {
-    "id": 544520
+    "id": 544645
 }
 Request method:	DELETE
-Request URI:	https://qa-scooter.praktikum-services.ru/api/v1/courier/544520
+Request URI:	https://qa-scooter.praktikum-services.ru/api/v1/courier/544645
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
@@ -267,21 +267,21 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Content-Length: 11
-Set-Cookie: _yasc=VTYsRYfLdRpSap7Y3xtuD7X4tuRKka3U/ng5nEz8/jHxb31+r5AGz4PJwosDk2mM; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 07:49:07 GMT; secure
-Date: Sun, 15 Jun 2025 07:49:07 GMT
 Access-Control-Allow-Origin: *
-X-Request-Id: 1749973747934271-7061018659335906352
+X-Request-Id: 1749986473699636-8362945757443001891
+Date: Sun, 15 Jun 2025 11:21:13 GMT
 ETag: W/"b-Ai2R8hgEarLmHKwesT1qcY913ys"
-X-Powered-By: Express
+Set-Cookie: _yasc=DV3zr+dEMCLYuN46uzTfQaAJKRtCDKu6mBsvwoGSWM4usHmAUqioOZOtdCiPNYfSZw==; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 11:21:13 GMT; secure
+Content-Length: 11
 Content-Type: application/json; charset=utf-8
+X-Powered-By: Express
 
 {
     "ok": true
 }
 ]]></system-out>
   </testcase>
-  <testcase name="testingQueryWithDuplicateLogin" classname="CourierCreateTest" time="1.659">
+  <testcase name="testingQueryWithDuplicateLogin" classname="CourierCreateTest" time="1.93">
     <system-out><![CDATA[Request method:	POST
 Request URI:	https://qa-scooter.praktikum-services.ru/api/v1/courier
 Proxy:			<none>
@@ -297,17 +297,17 @@ Body:
 {
     "firstName": "Auto",
     "password": "pass123",
-    "login": "autoTest_1749973749948"
+    "login": "autoTest_1749986473858"
 }
 HTTP/1.1 201 Created
-ETag: W/"b-Ai2R8hgEarLmHKwesT1qcY913ys"
 Content-Type: application/json; charset=utf-8
-Set-Cookie: _yasc=72GvMWAY+nGk1MAaFiVEWG/hsTXUbBZHH3FpRgVMRY3G1AMmNKWObtnWKJx2umDo; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 07:49:08 GMT; secure
-Content-Length: 11
-Access-Control-Allow-Origin: *
-X-Request-Id: 1749973748368282-8453899834980543141
-Date: Sun, 15 Jun 2025 07:49:08 GMT
+Set-Cookie: _yasc=wWQxq4jouplYCHInjxFdrTGm9ATnnY3lp16KdHlAuCXlCgX+GddEMCmVCIyqHJE=; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 11:21:14 GMT; secure
 X-Powered-By: Express
+ETag: W/"b-Ai2R8hgEarLmHKwesT1qcY913ys"
+Date: Sun, 15 Jun 2025 11:21:14 GMT
+Content-Length: 11
+X-Request-Id: 1749986474115188-3084810698049696695
+Access-Control-Allow-Origin: *
 
 {
     "ok": true
@@ -327,17 +327,17 @@ Body:
 {
     "firstName": "Auto",
     "password": "pass123",
-    "login": "autoTest_1749973749948"
+    "login": "autoTest_1749986473858"
 }
 HTTP/1.1 409 Conflict
-Set-Cookie: _yasc=OapEZITUdHqJlTEMtoxV1z8nrtFlSQh49P04QXVbg3iUuhkBh+r1O4EDzfON1wyA; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 07:49:08 GMT; secure
+Date: Sun, 15 Jun 2025 11:21:14 GMT
+X-Request-Id: 1749986474566803-4982523381103911446
 Access-Control-Allow-Origin: *
-Date: Sun, 15 Jun 2025 07:49:08 GMT
 Content-Length: 112
 ETag: W/"70-sLG1ZktNk+Ab3iaKUMwxkdL4FJo"
-X-Request-Id: 1749973748773498-6776056675475673065
-X-Powered-By: Express
+Set-Cookie: _yasc=IU3FJouj0OI9qxTq72xJTX3GrZs+Yh94KgEexH2aXak27GduAG0fdAAacWm9MsJ/; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 11:21:14 GMT; secure
 Content-Type: application/json; charset=utf-8
+X-Powered-By: Express
 
 {
     "code": 409,
@@ -357,23 +357,23 @@ Multiparts:		<none>
 Body:
 {
     "password": "pass123",
-    "login": "autoTest_1749973749948"
+    "login": "autoTest_1749986473858"
 }
 HTTP/1.1 200 OK
-Access-Control-Allow-Origin: *
-X-Request-Id: 1749973749148481-17408243955663465871
-Date: Sun, 15 Jun 2025 07:49:09 GMT
-Content-Length: 13
-Content-Type: application/json; charset=utf-8
-Set-Cookie: _yasc=ln+T7nZqgiV1RW9e2OVqgLI2ZpdUyvedLUqnnddRW7dFG5ySRXXgyiksl57FkR33; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 07:49:09 GMT; secure
-ETag: W/"d-ftFjFoF+5BTUqDW6cyAFF4gAv4M"
+ETag: W/"d-3GlZ3AyrvtiBwa9+TvODptYMw+M"
+Set-Cookie: _yasc=GgU6NQHOyvGgl75F7Mr4mQDSyfeSRhTAib1POYEdpLMcpcT47PuddERe7iUbLuGY; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 11:21:14 GMT; secure
 X-Powered-By: Express
+Content-Type: application/json; charset=utf-8
+Content-Length: 13
+X-Request-Id: 1749986474978828-6451126955833667988
+Date: Sun, 15 Jun 2025 11:21:14 GMT
+Access-Control-Allow-Origin: *
 
 {
-    "id": 544521
+    "id": 544646
 }
 Request method:	DELETE
-Request URI:	https://qa-scooter.praktikum-services.ru/api/v1/courier/544521
+Request URI:	https://qa-scooter.praktikum-services.ru/api/v1/courier/544646
 Proxy:			<none>
 Request params:	<none>
 Query params:	<none>
@@ -385,14 +385,14 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Content-Type: application/json; charset=utf-8
-ETag: W/"b-Ai2R8hgEarLmHKwesT1qcY913ys"
-X-Request-Id: 1749973749605949-6155795340565649782
-Date: Sun, 15 Jun 2025 07:49:09 GMT
-X-Powered-By: Express
-Set-Cookie: _yasc=jczxOduP4ZWkcKu+DsKDabNJ4vsVVMXyD8fV0iaSafy5Le6XX0eDDHgOHn6w2Af4yA==; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 07:49:09 GMT; secure
-Access-Control-Allow-Origin: *
 Content-Length: 11
+Set-Cookie: _yasc=AcCfqwldssuUFFRiDOm3E78IrR+l1JiuBL53OE8mbKiVscjUjXpyVZbaEzh3/QEXTA==; domain=.praktikum-services.ru; path=/; expires=Wed, 13 Jun 2035 11:21:15 GMT; secure
+X-Request-Id: 1749986475429261-5637897703110925643
+Content-Type: application/json; charset=utf-8
+Date: Sun, 15 Jun 2025 11:21:15 GMT
+ETag: W/"b-Ai2R8hgEarLmHKwesT1qcY913ys"
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
 
 {
     "ok": true
